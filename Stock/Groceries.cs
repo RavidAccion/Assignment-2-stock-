@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Stock
 {
-    public  class Groceries
+    public  class Groceries : vegs
     {
         public void tostart()
         {

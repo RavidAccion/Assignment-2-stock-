@@ -13,7 +13,7 @@ class Program : Electronics
         Console.WriteLine("WELCOME TO STOCK CHECK.COM");
         Console.WriteLine("Enter Any Product Which You want To know The Details");
         Console.WriteLine("*****************************************************");
-        Console.WriteLine("Groceries / Electronics");
+        Console.WriteLine("Groceries / Electronics/ Tomato");
        
         string UserData = Console.ReadLine();
 
